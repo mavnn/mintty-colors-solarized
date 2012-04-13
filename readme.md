@@ -11,6 +11,7 @@ Copy the two files into a directory in your home (for example .solar) and add on
 
 	source ~/%your directory%/sol.light
 or
+
 	source ~/%your directory%/sol.dark
 
 Color schemes can be swapped interactively using the same commands.
@@ -21,6 +22,7 @@ You can also set these as the default in your ~/.mintty configuration file.  Thi
 
 	cat ./.mintty.light >> ~/.mintty
 or
+
 	cat ./.mintty.dark >> ~/.mintty
 
 Then open the config file and remove the 3 pre-existing color settings for:
