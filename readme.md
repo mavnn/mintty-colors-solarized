@@ -18,12 +18,12 @@ Color schemes can be swapped interactively using the same commands.
 
 ## Mintty internal defaults
 
-You can also set these as the default in your ~/.mintty configuration file.  This means that a mintty terminal reset doesnt loose your color settings. Simply append the appropriate file to your mintty config file (~/.mintty) and then edit the file and tweak as below:
+You can also set these as the default in your ~/.minttyrc configuration file.  This means that a mintty terminal reset doesnt loose your color settings. Simply append the appropriate file to your mintty config file (~/.minttyrc) and then edit the file and tweak as below:
 
-	cat ./.mintty.light >> ~/.mintty
+	cat ./.minttyrc.light >> ~/.minttyrc
 or
 
-	cat ./.mintty.dark >> ~/.mintty
+	cat ./.minttyrc.dark >> ~/.minttyrc
 
 Then open the config file and remove the 3 pre-existing color settings for:
 
