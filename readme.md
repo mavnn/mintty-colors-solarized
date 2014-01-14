@@ -7,7 +7,7 @@ https://github.com/mavnn/mintty-colors-solarized and is designed to be included 
 
 ## Mintty internal defaults
 
-You can set these as your default ~/.minttyrc configuration file.  This means that a mintty terminal reset doesnt loose your color settings. Simply append the appropriate file to your mintty config file (~/.minttyrc) and then edit the file and tweak as below:
+You can set these as your default ~/.minttyrc configuration file.  This means that a mintty terminal reset doesn't lose your color settings. Simply append the appropriate file to your mintty config file (~/.minttyrc) and then edit the file and tweak as below:
 
 	cat ./.minttyrc.light >> ~/.minttyrc
 or
