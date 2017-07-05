@@ -1,8 +1,6 @@
 echo -ne   '\eP\e]10;#657B83\a'  # Foreground   -> base00
 echo -ne   '\eP\e]11;#FDF6E3\a'  # Background   -> base3
-
 echo -ne   '\eP\e]12;#DC322F\a'  # Cursor       -> red
-
 echo -ne  '\eP\e]4;0;#073642\a'  # black        -> Base02
 echo -ne  '\eP\e]4;8;#002B36\a'  # bold black   -> Base03
 echo -ne  '\eP\e]4;1;#DC322F\a'  # red          -> red
